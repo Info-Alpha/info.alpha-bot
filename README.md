@@ -1,4 +1,4 @@
-# 🤖 Info.Alpha - | Each One | Teach One | Each One | Eats | 🗂️
+# 🤖 Info.Alpha - | Each One | Teach One | Each One | Eats |
 
 Welcome to **Info.Alpha**, a community-driven initiative focused on equipping traders with cutting-edge tools, education, and strategies to succeed in the dynamic world of cryptocurrency. We're here to make data-driven trading accessible and transparent for everyone.
 
